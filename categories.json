@@ -1,0 +1,222 @@
+[
+  {
+    "title": "1. Climate Drivers <hidden>",
+    "level": 1,
+    "description": "Climate drivers",
+    "children": [
+      {
+        "title": "1.01. CO2 rise",
+        "level": 2,
+        "description": "CO2 rise",
+        "id": 2572
+      },
+      {
+        "title": "1.02. Changes in temperature",
+        "level": 2,
+        "description": "Changes in temperature",
+        "id": 2573
+      },
+      {
+        "title": "1.03. Seasonal change",
+        "level": 2,
+        "description": "Seasonal change",
+        "id": 2574
+      },
+      {
+        "title": "1.04. Changes in precipitation",
+        "level": 2,
+        "description": "Changes in precipitation",
+        "id": 2575
+      },
+      {
+        "title": "1.05. Sea-level rise",
+        "level": 2,
+        "description": "Sea-level rise",
+        "id": 2576
+      },
+      {
+        "title": "1.06. Climate change (unspecified)",
+        "level": 2,
+        "description": "General reference to climate change",
+        "id": 2583
+      },
+      {
+        "title": "1.07. Other meteorological variables",
+        "level": 2,
+        "description": "Other meteorological variables like wind, humidity, etc.",
+        "id": 2644
+      }
+    ],
+    "id": 2571
+  },
+  {
+    "title": "2. Health impacts <hidden>",
+    "level": 1,
+    "description": "Health impacts",
+    "children": [
+      {
+        "title": "2.01. Food security",
+        "level": 3,
+        "description": "Food security",
+        "id": 2578
+      },
+      {
+        "title": "2.02. Mental health and sentiment",
+        "level": 3,
+        "description": "Mental health and sentiment",
+        "id": 2579
+      },
+      {
+        "title": "2.03. Cardiorespiratory disease",
+        "level": 3,
+        "description": "Cardiorespiratory disease",
+        "id": 2580
+      },
+      {
+        "title": "2.04. Direct injury and death",
+        "level": 3,
+        "description": "Direct injury and death",
+        "id": 2581
+      },
+      {
+        "title": "2.05. Infectious diseases",
+        "level": 3,
+        "description": "Infections dieseases",
+        "id": 2582
+      },
+      {
+        "title": "2.06. Other health impacts",
+        "level": 3,
+        "description": "Other health impacts",
+        "id": 2588
+      },
+      {
+        "title": "2.07. Water security",
+        "level": 3,
+        "description": "Water security",
+        "id": 2767
+      },
+      {
+        "title": "2.08. Mortality and morbidity",
+        "level": 3,
+        "description": "Mortality and morbidity",
+        "id": 2770
+      },
+      {
+        "title": "2.09. Health system capacity",
+        "level": 3,
+        "description": "Buildings or health workers with reduced capacity because of climate impacts",
+        "id": 2774
+      }
+    ],
+    "id": 2577
+  },
+  {
+    "title": "3. Attribution type<hidden>",
+    "level": 1,
+    "description": "Attribution type",
+    "children": [
+      {
+        "title": "2.01. Climate change attribution",
+        "level": 4,
+        "description": "Impact is explicitly attriuted to climate change",
+        "id": 2585
+      },
+      {
+        "title": "2.02. Trend attribution",
+        "level": 4,
+        "description": "Impact is explicitly attriuted to trends in climate variables",
+        "id": 2586
+      },
+      {
+        "title": "2.03. Climate sensitivity",
+        "level": 4,
+        "description": "Health impacts are shown to be sensitive to variation in climate variables",
+        "id": 2587
+      },
+      {
+        "title": "2.04. Extreme event attribution",
+        "level": 4,
+        "description": "Health impacts are shown to respond to extreme events",
+        "id": 2768
+      },
+      {
+        "title": "2.05. Scenarios",
+        "level": 4,
+        "description": "Evidence is presented on how health impacts will be affected by future climate change",
+        "id": 2769
+      }
+    ],
+    "id": 2584
+  },
+  {
+    "title": "4. Extreme events<hidden>",
+    "level": 1,
+    "description": "Extreme events",
+    "children": [
+      {
+        "title": "4.01. Floods and drought",
+        "level": 5,
+        "description": "Floods and drought",
+        "id": 2593
+      },
+      {
+        "title": "4.02. Heatwaves",
+        "level": 5,
+        "description": "Heatwaves",
+        "id": 2594
+      },
+      {
+        "title": "4.03. Wildfires",
+        "level": 5,
+        "description": "Wildfires",
+        "id": 2595
+      },
+      {
+        "title": "4.04. Other extreme events",
+        "level": 5,
+        "description": "Other extreme events",
+        "id": 2596
+      },
+      {
+        "title": "4.05. Extreme cold",
+        "level": 5,
+        "description": "Extreme cold",
+        "id": 2771
+      }
+    ],
+    "id": 2589
+  },
+  {
+    "title": "5. Exposure<hidden>",
+    "level": 1,
+    "description": "Exposure to things with known health impact",
+    "children": [
+      {
+        "title": "5.01. Pollution",
+        "level": 6,
+        "description": "Pollution",
+        "id": 2773
+      },
+      {
+        "title": "5.02. Biodiversity loss, ecosystem & microbial change",
+        "level": 6,
+        "description": "Biodiversity loss, ecosystem & microbial change",
+        "id": 2860
+      },
+      {
+        "title": "5.03. Reduced agricultural & aquaculture productivity",
+        "level": 6,
+        "description": "Reduced agricultural & aquaculture productivity",
+        "id": 2861
+      },
+      {
+        "title": "5.04. Reduced labour and physical capacity",
+        "level": 6,
+        "description": "Reduced labour and physical capacity",
+        "id": 2862
+      }
+    ],
+    "id": 2772
+  }
+]
